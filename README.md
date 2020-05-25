@@ -1,2 +1,2 @@
-# bpi-2020
+# BPI 2020
 anderScore BPI 2020 course material
